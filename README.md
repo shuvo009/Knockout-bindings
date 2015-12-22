@@ -1,3 +1,3 @@
 # Knockout-bindings
-a collection of different type of plugins of Knockout-bindingHandlers 
-https://github.com/cosminstefanxp/bootstrap-slider-knockout-binding
+
+1) [bootstrap-slider] (https://github.com/seiyria/bootstrap-slider) https://github.com/cosminstefanxp/bootstrap-slider-knockout-binding
